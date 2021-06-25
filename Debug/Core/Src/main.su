@@ -1,0 +1,9 @@
+main.c:104:6:find_CTOK	16	static
+main.c:115:6:toggle_led	24	static
+main.c:74:6:update_firmware	24	static
+main.c:67:6:SystemTick_IQR	4	static,ignoring_inline_asm
+main.c:144:5:main	40	static
+main.c:215:6:SystemClock_Config	88	static
+main.c:255:13:MX_USART2_UART_Init	8	static
+main.c:288:13:MX_GPIO_Init	40	static
+main.c:316:6:Error_Handler	4	static,ignoring_inline_asm

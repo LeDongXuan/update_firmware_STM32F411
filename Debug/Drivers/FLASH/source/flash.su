@@ -1,0 +1,2 @@
+flash.c:8:6:FlashWrite	32	static
+flash.c:30:6:FlashErase	32	static
